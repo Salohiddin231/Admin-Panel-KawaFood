@@ -1,7 +1,9 @@
 export default function LogIn() {
-  return (
-    <>
-     <div className="loginBg">dasa2</div> 
-    </>
-  )
+    return (
+        <>
+            <div className="loginBg">
+                <div className="loginBg">dasa23</div>
+            </div>
+        </>
+    )
 }
