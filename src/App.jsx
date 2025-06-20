@@ -1,9 +1,9 @@
-import LogIn from "./layout/LogIn/LogIn";
+import RoutesPage from './layout/RoutesPage/RoutesPage'
 
 export default function App() {
   return (
     <>
-      <LogIn/>
+      <RoutesPage />
     </>
   )
 }
