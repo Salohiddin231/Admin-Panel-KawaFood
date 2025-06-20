@@ -1,7 +1,7 @@
 export default function LogIn() {
   return (
     <>
-     <div className="loginBg">dasa</div> 
+     <div className="loginBg">dasa2</div> 
     </>
   )
 }
